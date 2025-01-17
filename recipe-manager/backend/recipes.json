@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Phở bò",
+    "ingredients": "Bánh phở, thịt bò, nước dùng, gia vị",
+    "instructions": "Nấu nước dùng, thái thịt bò, luộc bánh phở."
+  },
+  {
+    "id": 2,
+    "title": "Bánh mì thịt",
+    "ingredients": "Bánh mì, thịt nguội, rau sống, sốt",
+    "instructions": "Kẹp thịt nguội và rau vào bánh mì, thêm sốt."
+  }
+]

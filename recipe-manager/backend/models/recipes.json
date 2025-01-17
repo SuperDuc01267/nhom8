@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Bánh mì",
+    "ingredients": ["Bột mì", "Nước", "Men", "Muối"],
+    "instructions": "Trộn tất cả nguyên liệu và nướng."
+  },
+  {
+    "id": 2,
+    "title": "Phở",
+    "ingredients": ["Bánh phở", "Thịt bò", "Nước dùng", "Hành lá"],
+    "instructions": "Luộc thịt, cho vào bánh phở và thêm gia vị."
+  }
+]
